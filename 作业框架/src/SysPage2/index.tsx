@@ -8,10 +8,11 @@ const SysPage2 = () => {
 
   // 定义动态菜单项数据
   const menuItems = [
-    { label: "首页", link: "#home" },
-    { label: "关于我们", link: "#about" },
-    { label: "服务", link: "#services" },
-    { label: "联系我们", link: "#contact" },
+    { label: "皮文杰", link: "#pi" },
+    { label: "罗荣茂", link: "#luo" },
+    { label: "覃猛", link: "#qin" },
+    { label: "甘文希", link: "#gan" },
+    { label: "莫小鹏", link:"#mo"},
   ];
 
   return (
