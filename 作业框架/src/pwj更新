@@ -4,7 +4,7 @@ import React from 'react';
 const MyTitle = () => {
 
     
-    const titleText = "区块链专业社区团队"
+    const titleText = "第八组作业"
 
     return (
         <div className='flex w-full bg-slate-100 justify-center'>
